@@ -1,6 +1,6 @@
 
 AKA about me
-- 👋 Hi, I’m @MeyFae
+- 👋 Hi, I’m  Carolina Defanti aka dehfanti aka @MeyFae aka @royalfae
 - 👀 I’m interested in Python and GNU/Linux
 - 🌱 I’m currently learning Python and GNU/Linux 
 - 💞️ I’m looking to collaborate on GNU/Linux, any assigment I receive and code challenges 
